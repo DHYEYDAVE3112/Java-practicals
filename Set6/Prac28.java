@@ -2,7 +2,7 @@ import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class Prac_28 {
+public class Prac28 {
     public static void main(String[] args) {
         if (args.length != 2) {
             System.out.println("Usage: java CharCount <file> <character>");
